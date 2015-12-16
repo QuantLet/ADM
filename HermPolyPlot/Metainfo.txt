@@ -15,5 +15,4 @@ Author : Sergey Nasekin, Katerina Papagiannouli
 
 Submitted : 
 
-Example :
-- Plot of the first 4 Hermite polynomials
+Example : Plot of the first 4 Hermite polynomials
