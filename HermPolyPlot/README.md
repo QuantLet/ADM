@@ -4,25 +4,23 @@
 ## [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **HermPolyPlot** [<img src="https://github.com/QuantLet/Styleguide-and-Validation-procedure/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/d3/ia)
 
 ```yaml
-
 Name of QuantLet : HermPolyPlot
 
 Published in : ADM
 
-Description : 'Plots the first 4 Hermite polynomials on the given grid of 
-values, probabilistic version.'
+Description : 'Plots the first 4 Hermite polynomials on the given grid of values, probabilistic
+version.'
 
-Keywords : 'basis, orthogonal series, graphical representation, probability, 
-graphical representation, plot'
+Keywords : 'basis, orthogonal series, graphical representation, probability, graphical
+representation, plot'
 
 See also : hermitepoly
 
 Author : Sergey Nasekin, Katerina Papagiannouli
 
-Submitted : 
+Submitted :
 
 Example : Plot of the first 4 Hermite polynomials
-
 ```
 
 ![Picture1](HermPolyPlot.png)
