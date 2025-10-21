@@ -13,6 +13,6 @@ See also : hermitepoly
 
 Author : Sergey Nasekin, Katerina Papagiannouli
 
-Submitted : 
+Submitted : 08.12.2015
 
 Example : Plot of the first 4 Hermite polynomials
